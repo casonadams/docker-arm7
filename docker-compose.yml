@@ -9,4 +9,3 @@ services:
     working_dir: /home/Projects/
     entrypoint:
       - docker/entrypoint.sh
-      - /bin/bash
