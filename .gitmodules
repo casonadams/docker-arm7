@@ -1,0 +1,3 @@
+[submodule "dropwatch"]
+	path = dropwatch
+	url = https://github.com/nhorman/dropwatch.git
