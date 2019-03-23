@@ -1,8 +1,7 @@
-# docker-arm7
+# docker-arm7-dropwatch-build
 
-## Install docker
-
-## Install docker-compose
+## Install docker and docker-compose
+['Docker Docs'](https://docs.docker.com/)
 
 ## Clone Repo
 ```bash
