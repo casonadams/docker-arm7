@@ -1,7 +1,7 @@
 # docker-arm7-dropwatch-build
 
 ## Install docker and docker-compose
-['Docker Docs'](https://docs.docker.com/)
+[Docker Docs](https://docs.docker.com/)
 
 ## Clone Repo
 ```bash
@@ -25,5 +25,5 @@ docker-compose run dropwatch-build
 bin file will created in `dropwatch/Release`
 
 ## Notes
-`CONFIG_NET_DROP_MONITOR` must be enabled in your kernel ['drop_monitor support'](https://github.com/pavel-odintsov/drop_watch/wiki/Ubuntu-14.04-LTS-kernel-with-drop_monitor-support)
+`CONFIG_NET_DROP_MONITOR` must be enabled in your kernel [drop_monitor support](https://github.com/pavel-odintsov/drop_watch/wiki/Ubuntu-14.04-LTS-kernel-with-drop_monitor-support)
 
